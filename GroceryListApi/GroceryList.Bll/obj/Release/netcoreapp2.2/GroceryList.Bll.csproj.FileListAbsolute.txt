@@ -1,0 +1,14 @@
+D:\dotnet\GroceryList\GroceryList.Bll\bin\Release\netcoreapp2.2\GroceryList.Bll.deps.json
+D:\dotnet\GroceryList\GroceryList.Bll\bin\Release\netcoreapp2.2\GroceryList.Bll.dll
+D:\dotnet\GroceryList\GroceryList.Bll\bin\Release\netcoreapp2.2\GroceryList.Bll.pdb
+D:\dotnet\GroceryList\GroceryList.Bll\bin\Release\netcoreapp2.2\GroceryList.DAL.dll
+D:\dotnet\GroceryList\GroceryList.Bll\bin\Release\netcoreapp2.2\Microsoft.Extensions.Options.dll
+D:\dotnet\GroceryList\GroceryList.Bll\bin\Release\netcoreapp2.2\GroceryList.DAL.pdb
+D:\dotnet\GroceryList\GroceryList.Bll\bin\Release\netcoreapp2.2\Microsoft.Extensions.Options.xml
+D:\dotnet\GroceryList\GroceryList.Bll\obj\Release\netcoreapp2.2\GroceryList.Bll.csprojAssemblyReference.cache
+D:\dotnet\GroceryList\GroceryList.Bll\obj\Release\netcoreapp2.2\GroceryList.Bll.csproj.CoreCompileInputs.cache
+D:\dotnet\GroceryList\GroceryList.Bll\obj\Release\netcoreapp2.2\GroceryList.Bll.AssemblyInfoInputs.cache
+D:\dotnet\GroceryList\GroceryList.Bll\obj\Release\netcoreapp2.2\GroceryList.Bll.AssemblyInfo.cs
+D:\dotnet\GroceryList\GroceryList.Bll\obj\Release\netcoreapp2.2\GroceryList.Bll.csproj.CopyComplete
+D:\dotnet\GroceryList\GroceryList.Bll\obj\Release\netcoreapp2.2\GroceryList.Bll.dll
+D:\dotnet\GroceryList\GroceryList.Bll\obj\Release\netcoreapp2.2\GroceryList.Bll.pdb

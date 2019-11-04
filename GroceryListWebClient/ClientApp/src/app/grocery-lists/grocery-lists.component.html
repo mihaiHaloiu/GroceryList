@@ -1,0 +1,11 @@
+<h1>Grocery lists</h1>
+<br><br>
+
+<p *ngIf="!groceryItems"><em>Loading...</em></p>
+
+<div class="list-group" *ngIf="groceryItems">
+  <a href="" class="list-group-item list-group-item-action" *ngFor="let groceryItem of groceryItems" [routerLink]='["/grocery-list-details", groceryItem.id]'>
+    <h3>{{ groceryItem.title }}</h3>
+    <p>{{ groceryItem.description }}</p>    
+  </a>
+</div>

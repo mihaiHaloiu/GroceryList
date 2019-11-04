@@ -1,0 +1,15 @@
+<h1>Add grocery list</h1>
+<br><br>
+<form #GriceryListInsertForm="ngForm" (ngSubmit)="addGroceryList(GriceryListInsertForm)">
+    <div class="form-group">
+      <label for="inputEmail4">Title</label>
+      <input type="text" class="form-control" id="title" placeholder="Grcey list title" name="title" ngModel>
+    </div>
+  <div class="form-group">
+    <label for="inputAddress">Description</label>
+    <textarea type="text" rows="10" name="description" class="form-control" id="description" placeholder="Grocery list description" ngModel></textarea>
+  </div>
+ 
+  
+  <button type="submit" class="btn btn-primary">Add grocery list</button>
+</form>

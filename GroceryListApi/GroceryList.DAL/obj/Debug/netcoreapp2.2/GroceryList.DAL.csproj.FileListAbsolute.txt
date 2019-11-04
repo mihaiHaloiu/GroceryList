@@ -1,0 +1,9 @@
+D:\dotnet\GroceryList\GroceryList.DAL\bin\Debug\netcoreapp2.2\GroceryList.DAL.deps.json
+D:\dotnet\GroceryList\GroceryList.DAL\bin\Debug\netcoreapp2.2\GroceryList.DAL.dll
+D:\dotnet\GroceryList\GroceryList.DAL\bin\Debug\netcoreapp2.2\GroceryList.DAL.pdb
+D:\dotnet\GroceryList\GroceryList.DAL\obj\Debug\netcoreapp2.2\GroceryList.DAL.csproj.CoreCompileInputs.cache
+D:\dotnet\GroceryList\GroceryList.DAL\obj\Debug\netcoreapp2.2\GroceryList.DAL.AssemblyInfoInputs.cache
+D:\dotnet\GroceryList\GroceryList.DAL\obj\Debug\netcoreapp2.2\GroceryList.DAL.AssemblyInfo.cs
+D:\dotnet\GroceryList\GroceryList.DAL\obj\Debug\netcoreapp2.2\GroceryList.DAL.dll
+D:\dotnet\GroceryList\GroceryList.DAL\obj\Debug\netcoreapp2.2\GroceryList.DAL.pdb
+D:\dotnet\GroceryList\GroceryList.DAL\obj\Debug\netcoreapp2.2\GroceryList.DAL.csprojAssemblyReference.cache

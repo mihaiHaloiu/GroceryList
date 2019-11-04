@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\GroceryList",
+    "\\GroceryList.Bll",
+    "\\GroceryList.DAL",
+    "\\GroceryList.DAL\\Models",
+    "\\GroceryList.DAL\\Repositories",
+    "\\GroceryListBll",
+    "\\GroceryList\\Controllers"
+  ],
+  "SelectedNode": "\\GroceryList.DAL\\Models\\UserDB.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,94 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": "46c6b90c1555e6b16643ac19c2627ad2e4561289"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "GroceryList.Bll/1.0.0": {
+        "dependencies": {
+          "GroceryList.DAL": "1.0.0",
+          "NETStandard.Library": "2.0.3"
+        },
+        "runtime": {
+          "GroceryList.Bll.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.3.103.42": {
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.103.42"
+          }
+        }
+      },
+      "AWSSDK.DynamoDBv2/3.3.101.69": {
+        "dependencies": {
+          "AWSSDK.Core": "3.3.103.42"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.DynamoDBv2.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.101.69"
+          }
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "NETStandard.Library/2.0.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "GroceryList.DAL/1.0.0": {
+        "dependencies": {
+          "AWSSDK.DynamoDBv2": "3.3.101.69"
+        },
+        "runtime": {
+          "GroceryList.DAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GroceryList.Bll/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWSSDK.Core/3.3.103.42": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-o3TqtZqnf6oU5SPy2ZHa3lQRU9m4z/EeWShRVIxniIYxO5jj7XzHFK6JU24M3kBgSLXb0XEciSIJ9evZLJ4Dvw==",
+      "path": "awssdk.core/3.3.103.42",
+      "hashPath": "awssdk.core.3.3.103.42.nupkg.sha512"
+    },
+    "AWSSDK.DynamoDBv2/3.3.101.69": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-f5HVej0gBEDQuGyfY46oElvO8tfurOCgZ6GgYMWprUgmayVpjpfGH55s+CFvQjE2u4MbzNqamk/zflUrddujJw==",
+      "path": "awssdk.dynamodbv2/3.3.101.69",
+      "hashPath": "awssdk.dynamodbv2.3.3.101.69.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "path": "netstandard.library/2.0.3",
+      "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "GroceryList.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
